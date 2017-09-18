@@ -69,3 +69,4 @@
   });
 
 })(jQuery); // End of use strict
+var coche="bmw";
